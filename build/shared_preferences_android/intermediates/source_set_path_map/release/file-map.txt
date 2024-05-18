@@ -1,0 +1,12 @@
+io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.6.0-0 C:\Users\HP\.gradle\caches\transforms-3\55bcb5de5f3e83fcdc57239c67e2a357\transformed\core-1.6.0\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-java-1.0.0-beta04-1 C:\Users\HP\.gradle\caches\transforms-3\981afee23352a7ed07a7f22c39d8b412\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-1.0.0-beta04-2 C:\Users\HP\.gradle\caches\transforms-3\debfbf90a2465fdd6e98dc208301c729\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-annotation-experimental-1.1.0-3 C:\Users\HP\.gradle\caches\transforms-3\fdb00f16c339871e988c28b1c0df6b67\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-main-4 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.1\android\src\main\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-release-5 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.1\android\src\release\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-pngs-6 E:\Work\chatapp\build\shared_preferences_android\generated\res\pngs\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-resValues-7 E:\Work\chatapp\build\shared_preferences_android\generated\res\resValues\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-rs-8 E:\Work\chatapp\build\shared_preferences_android\generated\res\rs\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-9 E:\Work\chatapp\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-10 E:\Work\chatapp\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-11 E:\Work\chatapp\build\shared_preferences_android\intermediates\merged_res\release

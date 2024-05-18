@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-0 C:\Users\HP\.gradle\caches\transforms-3\3737e06f05517356c74358f32ec9a8d9\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-1 C:\Users\HP\.gradle\caches\transforms-3\55bcb5de5f3e83fcdc57239c67e2a357\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-2 C:\Users\HP\.gradle\caches\transforms-3\675374a81f79f0172317d524d18c8d85\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-3 C:\Users\HP\.gradle\caches\transforms-3\981afee23352a7ed07a7f22c39d8b412\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-4 C:\Users\HP\.gradle\caches\transforms-3\b4e60b8108bacb2e8d207f4f27b66025\transformed\browser-1.4.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.4.2-5 C:\Users\HP\.gradle\caches\transforms-3\c899f145794001b36b4ffde92dd8b583\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-6 C:\Users\HP\.gradle\caches\transforms-3\debfbf90a2465fdd6e98dc208301c729\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-7 C:\Users\HP\.gradle\caches\transforms-3\fdb00f16c339871e988c28b1c0df6b67\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.16.0\android\src\main\res
+io.flutter.plugins.firebase.auth.firebase_auth-profile-9 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.16.0\android\src\profile\res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 E:\Work\chatapp\build\firebase_auth\generated\res\pngs\profile
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 E:\Work\chatapp\build\firebase_auth\generated\res\resValues\profile
+io.flutter.plugins.firebase.auth.firebase_auth-rs-12 E:\Work\chatapp\build\firebase_auth\generated\res\rs\profile
+io.flutter.plugins.firebase.auth.firebase_auth-mergeProfileResources-13 E:\Work\chatapp\build\firebase_auth\intermediates\incremental\profile\mergeProfileResources\merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeProfileResources-14 E:\Work\chatapp\build\firebase_auth\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-15 E:\Work\chatapp\build\firebase_auth\intermediates\merged_res\profile
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-16 E:\Work\chatapp\build\firebase_core\intermediates\packaged_res\profile

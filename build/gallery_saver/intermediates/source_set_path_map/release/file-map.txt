@@ -1,0 +1,15 @@
+carnegietechnologies.gallery_saver-media-1.0.0-0 C:\Users\HP\.gradle\caches\transforms-3\0c219825d99b95d49fbcce7d4cf27b03\transformed\media-1.0.0\res
+carnegietechnologies.gallery_saver-core-1.6.0-1 C:\Users\HP\.gradle\caches\transforms-3\55bcb5de5f3e83fcdc57239c67e2a357\transformed\core-1.6.0\res
+carnegietechnologies.gallery_saver-jetified-window-java-1.0.0-beta04-2 C:\Users\HP\.gradle\caches\transforms-3\981afee23352a7ed07a7f22c39d8b412\transformed\jetified-window-java-1.0.0-beta04\res
+carnegietechnologies.gallery_saver-jetified-window-1.0.0-beta04-3 C:\Users\HP\.gradle\caches\transforms-3\debfbf90a2465fdd6e98dc208301c729\transformed\jetified-window-1.0.0-beta04\res
+carnegietechnologies.gallery_saver-coordinatorlayout-1.0.0-4 C:\Users\HP\.gradle\caches\transforms-3\e705f598f5d1cc4e18690bd0e693a694\transformed\coordinatorlayout-1.0.0\res
+carnegietechnologies.gallery_saver-jetified-core-ktx-1.5.0-5 C:\Users\HP\.gradle\caches\transforms-3\e90ed2c090092cc145ce4949d9e1c1f5\transformed\jetified-core-ktx-1.5.0\res
+carnegietechnologies.gallery_saver-jetified-annotation-experimental-1.1.0-6 C:\Users\HP\.gradle\caches\transforms-3\fdb00f16c339871e988c28b1c0df6b67\transformed\jetified-annotation-experimental-1.1.0\res
+carnegietechnologies.gallery_saver-main-7 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\gallery_saver-2.3.2\android\src\main\res
+carnegietechnologies.gallery_saver-release-8 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\gallery_saver-2.3.2\android\src\release\res
+carnegietechnologies.gallery_saver-pngs-9 E:\Work\chatapp\build\gallery_saver\generated\res\pngs\release
+carnegietechnologies.gallery_saver-resValues-10 E:\Work\chatapp\build\gallery_saver\generated\res\resValues\release
+carnegietechnologies.gallery_saver-rs-11 E:\Work\chatapp\build\gallery_saver\generated\res\rs\release
+carnegietechnologies.gallery_saver-mergeReleaseResources-12 E:\Work\chatapp\build\gallery_saver\intermediates\incremental\release\mergeReleaseResources\merged.dir
+carnegietechnologies.gallery_saver-mergeReleaseResources-13 E:\Work\chatapp\build\gallery_saver\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+carnegietechnologies.gallery_saver-merged_res-14 E:\Work\chatapp\build\gallery_saver\intermediates\merged_res\release

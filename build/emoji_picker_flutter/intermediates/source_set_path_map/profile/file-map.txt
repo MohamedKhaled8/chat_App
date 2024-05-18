@@ -1,0 +1,12 @@
+com.fintasys.emoji_picker_flutter-core-1.6.0-0 C:\Users\HP\.gradle\caches\transforms-3\55bcb5de5f3e83fcdc57239c67e2a357\transformed\core-1.6.0\res
+com.fintasys.emoji_picker_flutter-jetified-window-java-1.0.0-beta04-1 C:\Users\HP\.gradle\caches\transforms-3\981afee23352a7ed07a7f22c39d8b412\transformed\jetified-window-java-1.0.0-beta04\res
+com.fintasys.emoji_picker_flutter-jetified-window-1.0.0-beta04-2 C:\Users\HP\.gradle\caches\transforms-3\debfbf90a2465fdd6e98dc208301c729\transformed\jetified-window-1.0.0-beta04\res
+com.fintasys.emoji_picker_flutter-jetified-annotation-experimental-1.1.0-3 C:\Users\HP\.gradle\caches\transforms-3\fdb00f16c339871e988c28b1c0df6b67\transformed\jetified-annotation-experimental-1.1.0\res
+com.fintasys.emoji_picker_flutter-main-4 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\emoji_picker_flutter-1.6.4\android\src\main\res
+com.fintasys.emoji_picker_flutter-profile-5 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\emoji_picker_flutter-1.6.4\android\src\profile\res
+com.fintasys.emoji_picker_flutter-pngs-6 E:\Work\chatapp\build\emoji_picker_flutter\generated\res\pngs\profile
+com.fintasys.emoji_picker_flutter-resValues-7 E:\Work\chatapp\build\emoji_picker_flutter\generated\res\resValues\profile
+com.fintasys.emoji_picker_flutter-rs-8 E:\Work\chatapp\build\emoji_picker_flutter\generated\res\rs\profile
+com.fintasys.emoji_picker_flutter-mergeProfileResources-9 E:\Work\chatapp\build\emoji_picker_flutter\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.fintasys.emoji_picker_flutter-mergeProfileResources-10 E:\Work\chatapp\build\emoji_picker_flutter\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.fintasys.emoji_picker_flutter-merged_res-11 E:\Work\chatapp\build\emoji_picker_flutter\intermediates\merged_res\profile
